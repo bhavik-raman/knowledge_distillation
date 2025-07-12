@@ -127,3 +127,4 @@ Example Output:
 - Pillow
 - scikit-image
 - tqdm
+# Also check this video i recommend to check after 15 mins 
